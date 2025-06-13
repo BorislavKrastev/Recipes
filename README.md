@@ -1,1 +1,1 @@
-My website: https://github.com/BorislavKrastev/Recipes.git
+My website: https://borislavkrastev.github.io/Recipes/
